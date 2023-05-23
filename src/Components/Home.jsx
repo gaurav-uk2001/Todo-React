@@ -12,6 +12,7 @@ const Home = () => {
         <button type="submit">ADD</button>
       </form>
       
+      <Task/>
     </div>)
 };
 
