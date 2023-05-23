@@ -1,7 +1,7 @@
 import React from "react";
 
 const Task = ({ title, description, deleteTask, index }) => {
-  return (
+  return ( 
     <div className="task">
       <div>
         <p>{title}</p>
